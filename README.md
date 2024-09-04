@@ -1,5 +1,7 @@
 # 🌐 Maher Mahmoud's Portfolio
 
+![Visualization 1](webpage-preview.png)
+
 Welcome to my personal portfolio website! This site showcases my skills, projects, and experiences in the world of data analysis and beyond. Whether you're here to explore my work, connect with me, or just curious about what I do, you're in the right place.
 
 ## 🚀 About Me
